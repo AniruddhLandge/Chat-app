@@ -1,4 +1,5 @@
 #**Chat Application**
+
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: ANIRUDDHA LANDGE
@@ -12,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 #**DESCRIPTION OF THE PROJECT**
+
 A React Chat App is a web-based application built using React, a popular JavaScript library for building user interfaces, typically used for developing single-page applications (SPAs). This type of app allows users to send and receive messages in real time, providing a seamless and interactive communication experience. The app can be used for personal communication, team collaboration, customer support, and other messaging services.
 
 Key Features
@@ -37,3 +39,5 @@ Backend Integration: The backend of the React Chat App manages user authenticati
 
 
 #**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/7079a548-4bdb-40f1-8bac-0d6f44e69a2a)
